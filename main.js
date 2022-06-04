@@ -14,7 +14,7 @@ while(true){
             }
         }
     }
-    else if(arrExam[0]=='stop'){
+    else if(arrExam[0]=='toxta'){
         break;
     }
     console.log(arr);
